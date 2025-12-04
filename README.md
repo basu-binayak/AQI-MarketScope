@@ -1,7 +1,7 @@
 
 # 🌫️ AQI-MarketScope
 
-**A Data-Driven Market & Pollution Analytics Framework for Air Purifier Product Strategy in India**
+<a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/20">**A Data-Driven Market & Pollution Analytics Framework for Air Purifier Product Strategy in India**</a>
 
 ---
 
